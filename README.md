@@ -1,7 +1,7 @@
 # Usuarios
 Gestor de usuarios desarrollado con el framework Django de Python, su funcionalidad se abarca en la gestión de usuarios.
 
-# Funcionalidad
+# Funcionalidades
 
 ## Registro de Usuario
 Se le pide principalmente al usuario un nombre de usuario con el que se va a identificar, contraseña y correo.
