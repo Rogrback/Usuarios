@@ -6,7 +6,8 @@ Gestor de usuarios desarrollado con el framework Django de Python, su funcionali
 ## Registro de Usuario
 Se le pide principalmente al usuario un nombre de usuario con el que se va a identificar, contraseña y correo.
 
-![image](https://user-images.githubusercontent.com/53346752/115107926-4aae0880-9f33-11eb-9a6e-3fad8ac2ce68.png)
+![image](https://user-images.githubusercontent.com/53346752/115108489-5fd86680-9f36-11eb-82f8-553615612b93.png)
+
 
 Posteriormente se le enviará un código de registro a su correo registrado y luego validarlo en el sistema para finalmente estar registrado. 
  
